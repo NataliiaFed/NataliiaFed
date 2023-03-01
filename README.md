@@ -1,5 +1,5 @@
 <h1 align="center">Hello, World! 👋</h1>
-<h3 align="center">I’m Nataliia, a novice but very enthusiastic Junior Software Developer, who is eager to learn, grow and contribute to cool projects. I love new challenges and performing tasks involving logical thinking and complex algorithms.</h3>
+<h3 align="center">I’m Nataliia, a novice but very enthusiastic Junior Software Developer, who is eager to learn, grow and contribute to cool projects.</h3>
 
 - 🔭 I’m currently working on **a Telegram bot**
 
