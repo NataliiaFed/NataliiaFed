@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **nataliiafedorets@gmail.com**
 
-- 📄 Know about my experiences [my Linkedin profile](linkedin.com/in/nataliia-fedorets-71ab1a72)
+- 📄 Know about my experiences on [my Linkedin profile](linkedin.com/in/nataliia-fedorets-71ab1a72)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
